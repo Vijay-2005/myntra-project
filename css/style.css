@@ -1,0 +1,152 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    /* background-color: black; */
+}
+
+/* Header */
+
+#nav-list>li:nth-child(4) {
+    padding: 0px 1px 6px;
+}
+
+
+
+header>.flex {
+    /* width: 80vw; */
+}
+
+.left img {
+    width: 53px;
+    height: 36px;
+    /* margin-left: 127px; */
+
+}
+
+.left ul li {
+    list-style: none;
+    padding: 0px 12px 6px;
+    font-size: 14px;
+}
+
+.box {
+    max-width: 80vw;
+    margin: auto;
+    box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
+    /* box shadow likhna nahi ata hai; */
+    /* position sticky ke sath top 0px bhi lagana hota hai */
+    position: sticky;
+    background-color: white;
+    top: 0px;
+    padding: 0px 10vw;
+    height: 80px;
+    /* ye wala bhi likhna nahi ata hai */
+
+
+}
+
+.box1 {
+    /* height: 5000px; */
+    /* padding: 0px 145px 0px 145px; */
+    /* padding: 0px 10vw; */
+    /* ye likhna nahi ata */
+    width: 80vw;
+    /* why we use this  */
+
+
+}
+
+a.titlelogo {
+    height: 10px;
+    width: 10px;
+}
+
+.searchbar {
+    /* display: inline-block; */
+    float: left;
+    font-size: 14px;
+    height: 20px;
+    /* line-height: 24px; */
+    /* width: 95%; */
+    color: #696e79;
+    /* -webkit-box-sizing: content-box; */
+    /* box-sizing: content-box; */
+    padding: 8px 10px 10px;
+    margin: 0;
+    outline: 0;
+    border: 1px solid #f5f5f6;
+    border-radius: 0 4px 4px 0;
+    border-left: 0;
+    background: #f5f5f6;
+    width: 388px;
+
+}
+
+.img1 {
+    /* padding-right: 440px; */
+    width: 95vw;
+    padding-left: 30px;
+}
+
+.img2 {
+    width: 95vw;
+    padding-left: 30px;
+
+}
+
+.box2 {
+    width: 95vw;
+    /* overflow: hidden; */
+}
+
+.box3img {
+    width: 98vw;
+}
+
+.widthbox4img {
+    width: 126px;
+}
+
+.widthbox6img {
+    width: 249px;
+    margin-left: 4px;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+/* .profile {
+    text-align: center;
+}
+
+.wishlist {
+    text-align: center;
+
+}
+
+.bag {
+    text-align: center;
+} */
+.right div {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* uper wale ki jagah ye likh diya */
+.search i {
+    background-color: #f5f5f6;
+    padding: 10px 10px 10px 10px;
+    height: 20px;
+    color: #696e79;
+    border-radius: 4px 0px 0px 4px;
+}
+
+nav {
+    padding: 5px;
+
+}

@@ -1,0 +1,43 @@
+/* .TOPleft {
+    display: flex;
+} */
+
+.flex {
+    display: flex;
+}
+
+/* .leftflex {
+    display: flex;
+} */
+.items-center {
+    align-items: center;
+
+
+}
+
+.justify-content {
+    justify-content: center;
+
+}
+
+.font-family {
+    font-family: Whitney, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    /* -webkit-font-smoothing: antialiased; */
+    font-weight: 500;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.mg-2 {
+    margin: 0px 13px 0px 13px;
+}
+
+.width {
+    width: 189px;
+}
